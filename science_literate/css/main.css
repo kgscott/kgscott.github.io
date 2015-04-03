@@ -21,24 +21,24 @@ h1 {
 	font-family: Georgia, Garamond, Times, serif;
 	font-style: italic;
 	text-align: left;
-	margin-left: 15em;
+	margin-left: 18em;
 }
 
 #summary {
 	font-family: Georgia, Garamond, Times, serif;
 	text-align: left;
-	margin-left: 15em;
-	margin-right: 15em;
+	margin-left: 20em;
+	margin-right: 20em;
 }
 
 p {
 	font-family: Georgia, Garamond, Times, serif;
 	text-align: left;
-	margin-left: 15em;
+	margin-left: 20em;
 }
 
 ul {
 	text-align: left;
-	margin-left: 15em;
+	margin-left: 20em;
 	list-style-position: inside;
 }	
