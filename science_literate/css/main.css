@@ -20,6 +20,8 @@ h1 {
 #slogan {
 	font-family: Georgia, Garamond, Times, serif;
 	font-style: italic;
+	text-align: left;
+	margin-left:10em;
 }
 
 #summary {
@@ -33,6 +35,6 @@ p {
 	margin-left: 10em;
 }
 
-ol {
+ul {
 	list-style-position: inside;
-}
+}	
