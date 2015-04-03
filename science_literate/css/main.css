@@ -27,18 +27,18 @@ h1 {
 #summary {
 	font-family: Georgia, Garamond, Times, serif;
 	text-align: left;
-	margin-left: 20em;
-	margin-right: 24em;
+	margin-left: 26em;
+	margin-right: 26em;
 }
 
 p {
 	font-family: Georgia, Garamond, Times, serif;
 	text-align: left;
-	margin-left: 24em;
+	margin-left: 26em;
 }
 
 ul {
 	text-align: left;
-	margin-left: 24em;
+	margin-left: 26em;
 	list-style-position: inside;
 }	
