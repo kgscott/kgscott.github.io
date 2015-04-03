@@ -14,7 +14,7 @@ h1 {
 	text-align: left;
 	font-weight: bold;
 	font-size: 60pt;
-	margin-left: 5em;
+	margin-left: 6em;
 }
 
 #slogan {
@@ -25,10 +25,10 @@ h1 {
 #summary {
 	font-family: Georgia, Garamond, Times, serif;
 	text-align: left;
-	margin: 10em;
+	margin-left: 10em;
 }
 
 p {
 	font-family: Georgia, Garamond, Times, serif;
-	margin: 2em;
+	margin-left: 10em;
 }
