@@ -4,21 +4,21 @@
 }
 
 #watermark {
-	/*line-height: 120%;*/
+	line-height: 122%;
 }
 
 #zoe {
 	font-family: Georgia, serif;
 	font-size: 72px;
 	font-weight: bold;
-	padding-bottom: 1px;
+	/*padding-bottom: 1px;*/
 }
 
 #babian {
 	font-family: Georgia, serif;
 	font-size: 37px;
 	font-weight: bold;
-	padding-bottom: 1px; 
+	/*padding-bottom: 1px;*/ 
 }
 
 #photography {
