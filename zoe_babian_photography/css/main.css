@@ -31,8 +31,17 @@
 nav{
 	font-family: Georgia, serif;
 	font-size: 20px;
-	display: inline-block;
+	display: block;
 	float: right;
+	padding: 2em 2em;
+}
+
+img{
+	display: block;
+}
+
+#blog{
+	float: left;
 }
 
 h4{
@@ -48,7 +57,7 @@ p{
 footer{
 	font-family: Georgia, serif;
 	font-size: 20px;
-	display: inline-block;
+	display: block;
 	text-align: center;
 	padding: 2em 2em;
 }
