@@ -3,21 +3,20 @@
 	margin: auto;
 }
 
-h1{
+#zoe{
 	font-family: Georgia, serif;
 	font-size: 72px;
 	font-weight: bold;
-	font-variant: small-caps;
 }
 
-h2{
+#babian{
 	font-family: Georgia, serif;
 	font-size: 37px;
 	font-weight: bold;
 	font-variant: small-caps;
 }
 
-h3{
+#photography{
 	font-family: Georgia, serif;
 	font-size: 18px;
 	font-weight: bold;
