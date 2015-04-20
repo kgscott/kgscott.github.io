@@ -4,7 +4,7 @@
 }
 
 #watermark {
-	line-height: 102%;
+	line-height: 112%;
 }
 
 #zoe {
@@ -66,6 +66,6 @@ footer {
 	font-size: 20px;
 	display: block;
 	text-align: center;
-	padding: 2em 2em;
+	padding: 50% 50%;
 	float: left;
 }
