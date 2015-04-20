@@ -4,7 +4,7 @@
 }
 
 #watermark {
-	line-height: 122%;
+	line-height: 126%;
 }
 
 #zoe {
@@ -30,6 +30,7 @@
 nav {
 	font-family: Georgia, serif;
 	font-size: 20px;
+	text-decoration: none;
 	display: block;
 	float: right;
 }
