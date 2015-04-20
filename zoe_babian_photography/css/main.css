@@ -7,6 +7,7 @@
 	font-family: Georgia, serif;
 	font-size: 72px;
 	font-weight: bold;
+	padding: .1em;
 }
 
 #babian{
@@ -14,6 +15,7 @@
 	font-size: 37px;
 	font-weight: bold;
 	font-variant: small-caps;
+	padding: .1em;
 }
 
 #photography{
@@ -21,6 +23,7 @@
 	font-size: 18px;
 	font-weight: bold;
 	font-variant: small-caps;
+	padding: .1em;
 }
 
 nav{
