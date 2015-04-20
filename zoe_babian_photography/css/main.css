@@ -4,7 +4,7 @@
 }
 
 #watermark {
-	line-height: 140%;
+	line-height: 144%;
 }
 
 #zoe {
@@ -37,6 +37,7 @@ nav {
 
 .nav {
 	padding: 2em 4em 0 4em;
+	text-decoration: none;
 }
 
 img {
