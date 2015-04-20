@@ -4,6 +4,7 @@
 }
 
 #watermark {
+	line-height: 90%;
 }
 
 #zoe {
@@ -36,8 +37,8 @@ img {
 	display: block;
 	float: left;
 	width: 29%;
-	padding-left: 2%;
-	padding-right: 2%;
+	padding: 2% 2%;
+
 }
 
 .blog {
