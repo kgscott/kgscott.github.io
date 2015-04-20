@@ -48,4 +48,6 @@ p{
 footer{
 	font-family: Georgia, serif;
 	font-size: 20px;
+	display: inline-block;
+	text-align: center;
 }
