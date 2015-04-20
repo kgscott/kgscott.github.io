@@ -38,6 +38,8 @@ nav{
 
 img{
 	display: block;
+	width: 60%;
+	height: 60%;
 }
 
 #blog{
@@ -60,4 +62,5 @@ footer{
 	display: block;
 	text-align: center;
 	padding: 2em 2em;
+	float: left;
 }
