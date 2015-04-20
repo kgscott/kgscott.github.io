@@ -38,12 +38,16 @@ nav{
 
 img{
 	display: block;
-	width: 60%;
-	height: 60%;
+	float: left;
+	width: 29%;
+	margin-left: 2%;
+	margin-right: 2%;
 }
 
 #blog{
 	float: left;
+	width: 29%;
+	margin-right: 4%;
 }
 
 h4{
