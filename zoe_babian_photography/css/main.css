@@ -31,6 +31,8 @@
 nav{
 	font-family: Georgia, serif;
 	font-size: 20px;
+	display: inline-block;
+	float: right;
 }
 
 h4{
