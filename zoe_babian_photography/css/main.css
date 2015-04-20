@@ -53,8 +53,12 @@ img {
 	margin-right: 4%;
 }
 
-.clearfix {
-	overflow: auto;
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
 }
 
 h4 {
