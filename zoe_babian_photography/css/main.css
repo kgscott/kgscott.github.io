@@ -11,6 +11,7 @@
 	font-family: Georgia, serif;
 	font-size: 72px;
 	font-weight: bold;
+	padding-top: 2em
 	/*padding-bottom: 1px;*/
 }
 
@@ -36,7 +37,7 @@ nav {
 }
 
 .nav {
-	padding: 2em 4em 0 4em;
+	padding: 3em 4em 0 4em;
 	text-decoration: none;
 }
 
