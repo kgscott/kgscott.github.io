@@ -35,6 +35,10 @@ nav {
 	float: right;
 }
 
+a {
+	text-decoration: none;
+}
+
 .nav {
 	padding: 3em 4em 0 4em;
 	text-decoration: none;
