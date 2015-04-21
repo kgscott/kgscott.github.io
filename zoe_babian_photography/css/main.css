@@ -1,6 +1,7 @@
 #wrapper {
 	width: 960px;
 	margin: auto;
+	padding-top: 60px;
 }
 
 #watermark {
@@ -12,14 +13,12 @@
 	font-size: 72px;
 	font-weight: bold;
 	padding-top: 2em
-	/*padding-bottom: 1px;*/
 }
 
 #babian {
 	font-family: Georgia, serif;
 	font-size: 37px;
 	font-weight: bold;
-	/*padding-bottom: 1px;*/ 
 }
 
 #photography {
