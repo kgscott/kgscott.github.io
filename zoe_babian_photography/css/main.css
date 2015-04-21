@@ -76,7 +76,6 @@ footer {
 	font-family: Georgia, serif;
 	font-size: 20px;
 	display: block;
-	padding-left: 5em; 
-	padding-right: 5em;
-	float: left;
+	text-align: center;
+	text-decoration: none;
 }
