@@ -77,7 +77,8 @@ h4 {
 
 p {
 	font-family: Georgia, serif;
-	font-size: 14px;
+	font-size: 16px;
+	padding-left: 2em;
 }
 
 footer {
