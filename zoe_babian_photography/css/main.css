@@ -46,10 +46,10 @@ a {
 	text-decoration: none;
 }
 
-img {
+.landing {
 	display: block;
 	float: left;
-	width: 29%;
+	width: 29.33%;
 	padding: 2% 2%;
 
 }
