@@ -29,3 +29,10 @@ p {
 	font: Georgia, serif;
 	font-size: 1.33em;
 }
+
+footer {
+	font-family: Georgia, serif;
+	color: white;
+	background-color: black;
+	padding: 1em;
+}
