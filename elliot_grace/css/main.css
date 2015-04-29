@@ -1,5 +1,10 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans);
 
+#wrapper {
+	width: 90%;
+	margin: auto;
+}
+
 h1 {
 	font-family: PT Sans, sans-serif;
 	font-size: 36px;
@@ -7,7 +12,7 @@ h1 {
 }
 
 nav a {
-	font: PT Sans, sans-serif;
+	font-family: PT Sans, sans-serif;
 	font-size: .9em;
 	text-decoration: none;
 	color: white;
