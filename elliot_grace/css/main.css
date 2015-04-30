@@ -50,6 +50,7 @@ div a {
 	color: white;
 	background-color: black;
 	display: block;
-	padding: 1em;
+	padding: 2em;
 	width: 13%;
+	text-decoration: none;
 }
