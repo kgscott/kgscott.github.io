@@ -43,6 +43,7 @@ img {
 p {
 	font: Georgia, serif;
 	font-size: 2em;
+	float: left;
 }
 
 #action {
