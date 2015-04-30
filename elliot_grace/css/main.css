@@ -26,6 +26,18 @@ nav a {
 	padding: 1em;
 }
 
+img {
+	float: right;
+}
+
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+
 p {
 	font: Georgia, serif;
 	font-size: 1.33em;
@@ -37,5 +49,5 @@ div a {
 	background-color: black;
 	display: block;
 	padding: 1em;
-	width: 10%;
+	width: 15%;
 }
