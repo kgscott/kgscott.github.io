@@ -23,6 +23,7 @@ nav a {
 	background-color: black;
 	display: inline;
 	text-align: center;
+	padding: 1em;
 }
 
 p {
@@ -30,10 +31,11 @@ p {
 	font-size: 1.33em;
 }
 
-a {
+div a {
 	font-family: Georgia, serif;
 	color: white;
 	background-color: black;
 	display: block;
 	padding: 1em;
+	width: 10%;
 }
