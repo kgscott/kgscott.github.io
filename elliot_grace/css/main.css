@@ -42,7 +42,7 @@ img {
 
 p {
 	font: Georgia, serif;
-	font-size: 2em;
+	font-size: 6em;
 	float: left;
 }
 
@@ -52,6 +52,6 @@ p {
 	background-color: black;
 	display: block;
 	padding: 1em;
-	width: 13%;
+	width: 11%;
 	text-decoration: none;
 }
