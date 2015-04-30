@@ -46,7 +46,7 @@ p {
 	float: left;
 }
 
-#action {
+#action a {
 	font-family: Georgia, serif;
 	color: white;
 	background-color: black;
