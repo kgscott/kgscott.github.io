@@ -30,10 +30,10 @@ p {
 	font-size: 1.33em;
 }
 
-footer {
+#id {
 	font-family: Georgia, serif;
 	color: white;
 	background-color: black;
-	padding: 1em;
 	display: block;
+	padding: 1em;
 }
