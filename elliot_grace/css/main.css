@@ -28,6 +28,8 @@ nav a {
 
 img {
 	float: right;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
 
 .clearfix:after {
@@ -49,5 +51,5 @@ div a {
 	background-color: black;
 	display: block;
 	padding: 1em;
-	width: 15%;
+	width: 13%;
 }
