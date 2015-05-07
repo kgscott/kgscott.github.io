@@ -31,17 +31,9 @@ nav a {
 
 img {
 	float: right;
-	padding-top: 2em;
-	padding-bottom: 2em;
+	padding: 4em 1em 1em 4em;
 }
 
-.clearfix:after {
-	content: ".";
-	display: block;
-	height: 0;
-	clear: both;
-	visibility: hidden;
-}
 
 p {
 	font: Georgia, serif;
