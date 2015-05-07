@@ -11,9 +11,9 @@ h1 {
 	text-align: center;
 }
 
-#nav {
+nav {
+	text-align: center;
 	background-color: black;
-	height: 10%;
 	width: 100%;
 }
 
@@ -23,15 +23,14 @@ nav a {
 	text-decoration: none;
 	color: white;
 	background-color: black;
-	display: inline-block;
 	text-align: center;
-	padding: 1em;
-	width: auto;
+	padding: 1em 0;
+	width: 33.333%;
+	float: left;
 }
 
-img {
-	float: right;
-	padding: 4em 1em 1em 4em;
+nav a:hover {
+	background-color: #d3d3d3;
 }
 
 
@@ -39,6 +38,12 @@ p {
 	font: Georgia, serif;
 	font-size: 2em;
 	float: left;
+}
+
+#image-bg {
+	background-image: url("../images/dress.jpeg");
+	background-repeat: no-repeat;
+	padding-top: 4em;
 }
 
 #action a {
@@ -50,4 +55,13 @@ p {
 	width: 11%;
 	text-decoration: none;
 	clear: both;
+}
+
+.clearfix:after {
+	display: block;
+	content: " ";
+	clear: both;
+	visibility: hidden;
+	font-size: 0;
+	height: 0;
 }
