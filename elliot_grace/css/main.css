@@ -24,15 +24,14 @@ nav a {
 	color: white;
 	background-color: black;
 	text-align: center;
-	padding: 1em 0;
 	width: 33.333%;
 	float: left;
+	padding: 1em 0;
 }
 
 nav a:hover {
 	background-color: #d3d3d3;
 }
-
 
 p {
 	font: Georgia, serif;
