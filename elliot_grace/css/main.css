@@ -46,15 +46,18 @@ p {
 	padding-top: 4em;
 }
 
-#action a {
+#action {
 	font-family: Georgia, serif;
 	color: white;
 	background-color: black;
 	display: block;
 	padding: 1em;
-	width: 11%;
+	width: 30%;
+	text-align: center;
 	text-decoration: none;
-	clear: both;
+	float: right;
+	margin-top: 15em;
+	margin-bottom: 5em;
 }
 
 .clearfix:after {
