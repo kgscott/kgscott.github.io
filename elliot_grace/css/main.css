@@ -5,15 +5,23 @@
 	margin: auto;
 }
 
+#header-cont {
+	width: 60%;
+	position: fixed;
+	top: 0px;
+	background-color: white;
+}
+
 h1 {
 	font-family: PT Sans, sans-serif;
 	font-size: 36px;
 	text-align: center;
+	background-color: white;
 }
 
 nav {
 	text-align: center;
-	background-color: black;
+	background-color: white;
 	width: 100%;
 }
 
@@ -21,20 +29,21 @@ nav a {
 	font-family: PT Sans, sans-serif;
 	font-size: .9em;
 	text-decoration: none;
-	color: white;
-	background-color: black;
+	color: black;
+	background-color: white;
 	text-align: center;
 	width: 33.333%;
 	float: left;
-	padding: .9em 0;
+	padding-bottom: .8em;
 }
 
 nav a:hover {
-	background-color: #808080;
+	color: #808080;
 }
 
 body {
-	font-size: 16px
+	font-size: 16px;
+	height: 2000px;
 }
 
 p {
@@ -47,25 +56,19 @@ p {
 	background-image: url("../images/dress.jpeg");
 	background-repeat: no-repeat;
 	padding-top: 16em;
-	margin-top: 2em;
+	margin-top: 10em;
 }
 
-#action {
-	font-family: Georgia, serif;
-	color: white;
-	background-color: black;
-	display: block;
-	padding: 1em;
-	width: 30%;
-	text-align: center;
-	text-decoration: none;
-	float: right;
-	margin-top: 15em;
-	margin-bottom: 5em;
+#only {
+	font-size: 1em;
 }
 
-#action:hover {
-	background-color: #808080;
+#dress {
+	font-size: 2.1em;
+}
+
+#work {
+	font-size: 2.1em;
 }
 
 .clearfix:after {
@@ -83,11 +86,24 @@ p {
 		margin: auto;
 	}
 
+	nav {
+		margin-left: 20%;
+	}
+
+
+	nav a {
+		width: 20%;
+	}
+
+
 	#image-bg {
-		margin: 2em 10em;
+		background-position: center;
+		padding-top: 17em;
+		margin-top: 10em;
 	}
 
 	#action {
-		margin-left: 8em;
+		margin-right: 2em;
+		padding: .8em .1em;
 	}
 }
