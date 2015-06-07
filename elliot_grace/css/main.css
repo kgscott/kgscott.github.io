@@ -6,7 +6,7 @@
 }
 
 #header-cont {
-	width: 60%;
+	width: 80%;
 	position: fixed;
 	top: 0px;
 	background-color: white;
@@ -22,7 +22,7 @@ h1 {
 nav {
 	text-align: center;
 	background-color: white;
-	width: 100%;
+	width: 40%;
 }
 
 nav a {
@@ -32,9 +32,8 @@ nav a {
 	color: black;
 	background-color: white;
 	text-align: center;
-	width: 33.333%;
 	float: left;
-	padding-bottom: .8em;
+	padding-bottom: 1.5em;
 }
 
 nav a:hover {
@@ -43,24 +42,55 @@ nav a:hover {
 
 body {
 	font-size: 16px;
-	height: 2000px;
+	height: 1700px;
 }
 
 p {
 	font: Georgia, serif;
 	font-size: 2.2em;
-	float: left;
+	/*float: left;*/
 }
 
 #image-bg {
-	background-image: url("../images/dress.jpeg");
+	background-image: url("../images/underwear.jpg");
 	background-repeat: no-repeat;
-	padding-top: 16em;
-	margin-top: 10em;
+	padding-top: 0em;
+	margin-top: 0em;
 }
 
-#only {
+#top {
+	padding-bottom: 1.5em;
+}
+
+#what {
 	font-size: 1em;
+	margin-left: 5em;
+	color: white;
+}
+
+#to {
+	font-size: 2.1em;
+	margin-left: 3em;
+	color: white;
+}
+
+#wear {
+	font-size: 2.1em;
+	margin-left: 2.6em;
+	color: white;
+}
+
+img {
+	margin: 4em 0em 0em 10em;
+	float: left;
+}
+
+#head {
+	/*background-color: yellow;*/
+	text-align: center;
+	/*margin: 4em 0em 0em 5em;*/
+	margin-right: 5em;
+	margin-top: 4em;
 }
 
 #dress {
@@ -69,6 +99,41 @@ p {
 
 #work {
 	font-size: 2.1em;
+	margin-left: 2em;
+}
+
+#bullets {
+	font: Georgia, serif;
+	font-size: 2.2em;
+	margin-left: 12em;
+	padding-left: 10em;
+	width: 30%;
+}
+
+footer {
+	display: block;
+	padding-top: 8em;
+	padding-bottom: 6em;
+	/*padding: 2em 0 10em 0;*/
+	/*margin-left: 40%;*/
+	/*width: 80%;*/
+}
+
+footer a {
+	font-family: PT Sans, sans-serif;
+	font-size: 1.5em;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+}
+
+#phone {
+	padding: 4em;
+	margin-left: 29em;
+}
+
+footer a:hover {
+	color: #808080;
 }
 
 .clearfix:after {
@@ -81,13 +146,13 @@ p {
 }
 
 @media only screen and (min-width: 768px) {
-	#wrapper {
+	/*#wrapper {
 		width: 60%;
 		margin: auto;
-	}
+	}*/
 
 	nav {
-		margin-left: 20%;
+		margin-left: 37%;
 	}
 
 
@@ -98,8 +163,8 @@ p {
 
 	#image-bg {
 		background-position: center;
-		padding-top: 17em;
-		margin-top: 10em;
+		padding-top: 25em;
+		margin-top: 8em;
 	}
 
 	#action {
