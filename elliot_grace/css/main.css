@@ -23,6 +23,7 @@ nav {
 	text-align: center;
 	background-color: white;
 	width: 40%;
+	margin-left: 37%;
 }
 
 nav a {
@@ -34,6 +35,7 @@ nav a {
 	text-align: center;
 	float: left;
 	padding-bottom: 1.5em;
+	width: 20%;
 }
 
 nav a:hover {
@@ -54,8 +56,11 @@ p {
 #image-bg {
 	background-image: url("../images/underwear.jpg");
 	background-repeat: no-repeat;
-	padding-top: 0em;
-	margin-top: 0em;
+	background-position: center;
+	padding-top: 25em;
+	margin-top: 8em;
+	/*padding-top: 0em;
+	margin-top: 0em;*/
 }
 
 #top {
@@ -145,30 +150,32 @@ footer a:hover {
 	height: 0;
 }
 
-@media only screen and (min-width: 768px) {
-	/*#wrapper {
-		width: 60%;
-		margin: auto;
-	}*/
+@media only screen and (max-width: 768px) {
 
 	nav {
-		margin-left: 37%;
+		width: 80%;
+		margin-left: 25%;
+	}
+
+	img {
+		margin: 0em;
+	}
+
+	#bullets {
+		width: 60%;
+		margin-left: 0em;
+		padding-left: 33%;
+		padding-right: 20%;
+	}
+
+	footer {
+		padding: 2em;
+		margin-left: 6%;
+	}
+
+	#phone {
+		margin: 3%;
 	}
 
 
-	nav a {
-		width: 20%;
-	}
-
-
-	#image-bg {
-		background-position: center;
-		padding-top: 25em;
-		margin-top: 8em;
-	}
-
-	#action {
-		margin-right: 2em;
-		padding: .8em .1em;
-	}
 }
